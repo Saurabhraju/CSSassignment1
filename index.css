@@ -1,0 +1,24 @@
+.c
+{
+    color: red;
+    font-style: italic
+}
+.line
+{
+    text-decoration: underline;
+}
+.s1
+{
+    color: brown;
+}
+#a
+{
+    letter-spacing: 4px;
+    word-spacing: 4;
+}
+#prep
+{
+    background-color: yellow;
+    text-decoration: none;
+}
+
